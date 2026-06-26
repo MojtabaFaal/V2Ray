@@ -1,6 +1,7 @@
-https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/0_Server_ok_ALL.txt
-https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/1_Server_ok_VLESS.txt
-https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/2_Server_ok_VMess.txt
-https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/3_Server_ok_Trojan.txt
-https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/4_Server_ok_Shadowsocks.txt
-https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/5_Server_ok_hysteria2.txt
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/A1_Server_ok_Mokhaberat
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B0_Server_Type_ALL.txt
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B1_Server_Type_VLESS.txt
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B2_Server_Type_VMess.txt
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B3_Server_Type_Trojan.txt
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B4_Server_Type_Shadowsocks.txt
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B5_Server_Type_hysteria2.txt
