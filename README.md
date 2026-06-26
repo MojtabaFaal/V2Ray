@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/0_Link.txt
 
 Subscription :
 
-https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/A1_Server_ok_Mokhaberat
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/A1_Server_ok_Mokhaberat.txt
 https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B0_Server_Type_ALL.txt
 https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B1_Server_Type_VLESS.txt
 https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B2_Server_Type_VMess.txt
