@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B2_Server_
 https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B3_Server_Type_Trojan.txt
 https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B4_Server_Type_Shadowsocks.txt
 https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B5_Server_Type_hysteria2.txt
+https://raw.githubusercontent.com/MojtabaFaal/V2Ray/refs/heads/master/B6_Fast.txt
